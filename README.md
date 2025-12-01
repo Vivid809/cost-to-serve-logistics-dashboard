@@ -45,14 +45,13 @@ The organisation needed answers to three key questions:
 
 ## 📊 **Dashboard Preview**
 
-### **Cost-to-Serve Overview**
-*(replace with your actual filename if different)*  
-![Cost to Serve Overview](dashboard-images/cost-to-serve-overview.png)
+### **Cost-to-Serve Overview** 
+![Cost to Serve Overview](cost-to-serve-overview.png)
 
 ---
 
 ### **Performance Insights Page**
-![Performance Insights Overview](dashboard-images/performance-insights-overview.png)
+![Performance Insights Overview](performance-insights-overview.png)
 
 ---
 
