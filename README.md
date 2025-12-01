@@ -1,7 +1,10 @@
-<!-- Tech Stack Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,python" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="Power BI"/>
 </p>
+
+
 
 
 <h1 align="center">📦 Cost-to-Serve Logistics Dashboard</h1>
