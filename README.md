@@ -140,3 +140,23 @@ Includes:
 
 ## 📁 **Repository Structure**
 
+cost-to-serve-logistics-dashboard
+```
+│── cost-to-serve-overview.png
+│── performance-insights-overview.png
+│── README.md
+```
+## 📝 Recommendations
+
+- Prioritise optimisation for **Sydney, Melbourne, Brisbane**
+- Improve driver performance via **coaching & review cycles**
+- Strengthen early workforce planning to reduce Q4 cost spikes
+- Reevaluate routes above **$1.20/km** for rerouting or load balancing
+- Integrate dashboard into monthly operational reviews
+
+---
+
+## ⭐ Feedback & Collaboration
+
+If you found this project useful, feel free to star ⭐ the repository or reach out on LinkedIn for collaboration or discussion.
+
