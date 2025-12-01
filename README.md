@@ -1,7 +1,8 @@
 <!-- Tech Stack Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,python,excel,github" height="70"/>
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,python" height="70"/>
 </p>
+
 
 <h1 align="center">📦 Cost-to-Serve Logistics Dashboard</h1>
 <p align="center">Analyzing operational efficiency, cost drivers, and delivery performance for Australian transportation networks.</p>
